@@ -1,0 +1,8 @@
+# editing files & directories
+
+## delete a directory (use 'sudo' if any contents are 'write-protected', e.g a .git dir) 
+$ rm -r <directory name>
+
+## delete a file
+$ rm <file name>
+
