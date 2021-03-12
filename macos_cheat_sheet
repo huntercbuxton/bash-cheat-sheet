@@ -1,0 +1,10 @@
+# pbcopy & pbpaste
+
+## copy contents of a file to clipboard:
+$ pbcopy < <file> 
+
+## create a new file containing whatever is in the clipboard:
+$ pbpaste > <new file>
+
+
+
